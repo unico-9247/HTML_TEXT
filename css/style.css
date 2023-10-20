@@ -453,6 +453,10 @@ footer p {
     margin-left: 80px;
   }
 
+  .ad  {
+    text-align: center;
+  }
+
   /* MENU */
   .menu-content {
     margin-top: 20px;
